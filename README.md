@@ -5,7 +5,7 @@
 
 https://felipegbpr.github.io/curso-angular-portfolio/
 
-Este projeto representa uma aplicação de portfolio criada através do curso de Angular do instrutor [Dener Troquatte](https://www.linkedin.com/in/dener-s%C3%A3o-pedro-troquatte-ababa079/) na plataforma de cursos [Udemy](https://www.udemy.com/home/my-courses/learning/). 
+Este projeto representa uma aplicação de portfólio criada através do curso de Angular do instrutor [Dener Troquatte](https://www.linkedin.com/in/dener-s%C3%A3o-pedro-troquatte-ababa079/) na plataforma de cursos [Udemy](https://www.udemy.com/home/my-courses/learning/). 
 
 O projeto tem como objetivo demonstrar a utilização dos recursos e conceitos do framework Angular para desenvolvimento de aplicações 
 Web.
