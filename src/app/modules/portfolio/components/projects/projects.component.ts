@@ -33,7 +33,7 @@ export class ProjectsComponent {
       links: [
         {
           name: 'Link do projeto',
-          href: 'https://exemplo.com.br'
+          href: 'https://felipegbpr.github.io/angular-lista-de-tarefas/'
         }
       ],
     },
