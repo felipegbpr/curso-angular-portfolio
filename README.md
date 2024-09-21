@@ -1,27 +1,50 @@
-# CursoAngularPortfolio
+# 🖥️ Angular Portfolio
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/felipegbpr/curso-angular-portfolio/blob/main/LICENSE)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.1.
+## 📃 Sobre o projeto 
 
-## Development server
+https://felipegbpr.github.io/curso-angular-portfolio/
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Este projeto representa uma aplicação de portfólio criada através do curso de Angular do instrutor [Dener Troquatte](https://www.linkedin.com/in/dener-s%C3%A3o-pedro-troquatte-ababa079/) na plataforma de cursos [Udemy](https://www.udemy.com/home/my-courses/learning/). 
 
-## Code scaffolding
+O projeto tem como objetivo demonstrar a utilização dos recursos e conceitos do framework Angular para desenvolvimento de aplicações 
+Web.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 📷 Layout Web
 
-## Build
+<img src="https://github.com/felipegbpr/assets/blob/main/curso-angular-portfolio-web1.png" width="800px"/> <br/> <br/> <br/>  
+<img src="https://github.com/felipegbpr/assets/blob/main/curso-angular-portfolio-web2.png" width="800px"/> 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 📱 Layout Mobile
+<img src="https://github.com/felipegbpr/assets/blob/main/curso-angular-portfolio-mob2.png" />
 
-## Running unit tests
+## 💻 Tecnologias utilizadas
+![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoSize=amg&color=black) 
+![Static Badge](https://img.shields.io/badge/SCSS-violet?style=for-the-badge&logo=sass&logoSize=amg&color=black)
+![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoSize=amg&color=black)
+![Static Badge](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=red&logoSize=amg&color=black)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🌐 Implantação em produção
+- GitHub Pages
 
-## Running end-to-end tests
+## ⚙️ Como executar
+🚩 Pré-requisitos: ANGULAR & NODE
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+  <span># clonar repositório</span>
+    
+    git clone git@github.com:felipegbpr/curso-angular-portfolio.git
+   
+  <span># instalar dependências</span>
+    
+    npm install
+  
+  <span># executar o projeto</span>
+    
+    npm start 
+   
+## 👔 Autor
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Felipe Borges
+
+Perfil no LinkedIn: https://www.linkedin.com/in/felipe-gsb/
