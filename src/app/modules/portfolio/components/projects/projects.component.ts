@@ -29,7 +29,7 @@ export class ProjectsComponent {
       title: 'Lista de Tarefas',
       width: '100px',
       height: '51px',
-      description: '<p>descrição do projeto</p>',
+      description: '<p>Projeto web que engloba uma aplicação para gerenciamento de tarefas. Tem como principais tecnologias de desenvolvimento Angular, TypeScript, SCSS.</p>',
       links: [
         {
           name: 'Link do projeto',
